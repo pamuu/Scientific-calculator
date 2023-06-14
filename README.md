@@ -12,4 +12,3 @@
 
 MIT License
 
-Copyright (c) Raad Altaie
